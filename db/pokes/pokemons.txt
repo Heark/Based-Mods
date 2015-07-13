@@ -20,7 +20,7 @@
 741:0 Cosmosix
 742:0 Dilloom
 743:0 Dillow
-744:0 Dillosus
+744:0 Dillossus
 745:0 Dynamouse
 746:0 Pyrode
 747:0 Raxplode
