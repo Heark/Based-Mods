@@ -18,3 +18,12 @@
 739:0 Dramboo
 740:0 Magmeetle
 741:0 Cosmosix
+742:0 Dilloom
+743:0 Dillow
+744:0 Dillosus
+745:0 Dynamouse
+746:0 Pyrode
+747:0 Raxplode
+748:0
+749:0
+750:0
