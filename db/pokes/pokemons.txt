@@ -24,6 +24,6 @@
 745:0 Dynamouse
 746:0 Pyrode
 747:0 Raxplode
-748:0
-749:0
-750:0
+748:0 Basilli
+749:0 Aerilisk
+750:0 Wivirin
