@@ -919,3 +919,9 @@
 728:0 Aquopony
 729:0 Chevalage
 730:0 Reefallion
+731:0 Millar
+732:0 Tocon
+733:0 Lurkee
+734:0 Speck
+735:0 Pecule
+736:0 Wredator
