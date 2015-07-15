@@ -1,20 +1,15 @@
-﻿722
-723
-724
-725
-726
-727
-728
-729
-730
-731
-732
-733
-734
-735
-733
-734
-735
-736
-737
-738
+﻿722 Monster
+723 Monster
+724 Monster 
+725 Monster
+726 Monster
+727 Monster
+728 Monster
+729 Monster
+730 Monster
+731 Bug
+732 Bug 
+733 Bug
+734 Flying
+735 Flying
+736 Flying
